@@ -1,6 +1,6 @@
 {
   "name": "painterm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colours for node.js console outputs",
   "main": "index.js",
   "scripts": {
