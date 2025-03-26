@@ -1,0 +1,25 @@
+{
+  "name": "painterm",
+  "version": "1.0.0",
+  "description": "Colours for node.js console outputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obee111/painterm.git"
+  },
+  "keywords": [
+    "terminal",
+    "console",
+    "colour",
+    "color"
+  ],
+  "author": "Nick O'Brien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obee111/painterm/issues"
+  },
+  "homepage": "https://github.com/obee111/painterm#readme"
+}
